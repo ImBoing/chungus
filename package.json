@@ -1,0 +1,31 @@
+{
+  "name": "chungus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "bin": {
+    "chungus": "./src/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boingfromdiscord/chungus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boingfromdiscord/chungus/issues"
+  },
+  "homepage": "https://github.com/boingfromdiscord/chungus#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "g": "^2.0.1",
+    "glob": "^7.1.6",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "prompts": "^2.3.2"
+  }
+}
