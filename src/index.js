@@ -10,5 +10,5 @@ const prompts = require('prompts');
     if (args.length === 0) {
         await prompts(questions);
     }
-})()
+})();
 
